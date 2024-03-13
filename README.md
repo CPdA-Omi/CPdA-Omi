@@ -2,6 +2,9 @@
 
 ## `Just a girl who's having fun with programming`
 
+<details>
+	<summary>Languages and systems</summary>
+
 ### :pager: Systems known
 
 <div>
@@ -44,6 +47,8 @@
 	<img title="Go" alt="Go" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 	<img title="Rust" alt="Rust" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
 </div>
+
+</details>
 
 <!--
 **CPdA-Omi/CPdA-Omi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
