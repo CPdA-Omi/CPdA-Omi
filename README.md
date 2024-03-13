@@ -2,7 +2,7 @@
 
 ## `Just a girl who's having fun with programming`
 
-### :technologist: Systems known
+### :pager: Systems known
 
 <div>
 	<img title="Linux" alt="Linux" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
