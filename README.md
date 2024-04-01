@@ -2,7 +2,7 @@
 
 ## `Just a girl who's having fun with programming`
 
-<details>
+<details open="true">
 	<summary>Languages and systems</summary>
 
 ### :pager: Systems known
@@ -23,6 +23,7 @@
 	<img title="Python" alt="Python" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 	<img title="HTML" alt="HTML" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 	<img title="CSS" alt="CSS" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+	<img title="JavaScript" alt="JavaScript" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 	<img title="PHP" alt="PHP" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 	<img title="PostgreSQL" alt="PostgreSQL" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 	<img title="C++" alt="C++" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -32,7 +33,6 @@
 ### :desktop_computer: Languages still on learn
 
 <div>
-	<img title="JavaScript" alt="JavaScript" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 	<img title="React" alt="React" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 	<img title="Docker" alt="Docker" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 	<img title="Lua" alt="Lua" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
@@ -43,6 +43,7 @@
 ### :thinking: Languages wanted to learn
 
 <div>
+	<img title="Azure" alt="Azure" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 	<img title="Flutter" alt="Flutter" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 	<img title="Go" alt="Go" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 	<img title="Rust" alt="Rust" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
