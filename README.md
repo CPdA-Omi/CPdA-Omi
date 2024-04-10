@@ -8,45 +8,45 @@
 ### :pager: Systems known
 
 <div>
-	<img title="Linux" alt="Linux" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-	<img title="Windows" alt="Windows" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
-	<img title="Arduino" alt="Arduino" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
-	<img title="Git" alt="Git" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-	<img title="GitHub" alt="GitHub" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-	<img title="GitLab" alt="GitLab" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+	<img title="Linux" alt="Linux" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+	<img title="Windows" alt="Windows" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
+	<img title="Arduino" alt="Arduino" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+	<img title="Git" alt="Git" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+	<img title="GitHub" alt="GitHub" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+	<img title="GitLab" alt="GitLab" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
 </div>
 
 ### :technologist: Languages already trained
 
 <div>
-	<img title="Bash" alt="Bash" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-	<img title="Python" alt="Python" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-	<img title="HTML" alt="HTML" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-	<img title="CSS" alt="CSS" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-	<img title="JavaScript" alt="JavaScript" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-	<img title="PHP" alt="PHP" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-	<img title="PostgreSQL" alt="PostgreSQL" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-	<img title="C++" alt="C++" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-	<img title="C" alt="C" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+	<img title="Bash" alt="Bash" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+	<img title="Python" alt="Python" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+	<img title="HTML" alt="HTML" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+	<img title="CSS" alt="CSS" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+	<img title="JavaScript" alt="JavaScript" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+	<img title="React" alt="React" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+	<img title="PHP" alt="PHP" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+	<img title="PostgreSQL" alt="PostgreSQL" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+	<img title="C++" alt="C++" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+	<img title="C" alt="C" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div>
 
 ### :desktop_computer: Languages still on learn
 
 <div>
-	<img title="React" alt="React" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-	<img title="Docker" alt="Docker" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-	<img title="Lua" alt="Lua" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
-	<img title="Kotlin" alt="Kotlin" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-	<img title="Java" alt="Java" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+	<img title="Docker" alt="Docker" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+	<img title="Lua" alt="Lua" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+	<img title="Kotlin" alt="Kotlin" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+	<img title="Java" alt="Java" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
 ### :thinking: Languages wanted to learn
 
 <div>
-	<img title="Azure" alt="Azure" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-	<img title="Flutter" alt="Flutter" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-	<img title="Go" alt="Go" align="left" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-	<img title="Rust" alt="Rust" style="padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
+	<img title="Azure" alt="Azure" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+	<img title="Flutter" alt="Flutter" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+	<img title="Go" alt="Go" align="left" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
+	<img title="Rust" alt="Rust" style="padding-top:50px; padding-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
 </div>
 
 </details>
