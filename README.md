@@ -34,6 +34,8 @@
 ### :desktop_computer: Languages still on learn
 
 <div>
+	<img title="TypeScript" alt="TypeScript" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+	<img title="Express" alt="Express" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
 	<img title="Docker" alt="Docker" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 	<img title="Lua" alt="Lua" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 	<img title="Kotlin" alt="Kotlin" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
