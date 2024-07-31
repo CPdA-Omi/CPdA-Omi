@@ -1,9 +1,26 @@
 # :space_invader: CPdA-Omi
 
-**`Just a girl who's having fun with programming`**
+**Just a girl who's having fun with programming**
 
 <details open="true">
-	<summary>Languages and systems</summary>
+	<summary>Trained</summary>
+
+## :speech_balloon: Languages
+
+### :white_check_mark: Already trained
+
+<div>
+	<img title="Shell" alt="Shell" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+	<img title="Python" alt="Python" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+	<img title="HTML" alt="HTML" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+	<img title="CSS" alt="CSS" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+	<img title="JavaScript" alt="JavaScript" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+	<img title="PHP" alt="PHP" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+	<img title="C++" alt="C++" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+	<img title="C" alt="C" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+</div>
+
+## :desktop_computer: Systems and frameworks/libraries
 
 ### :pager: Systems known
 
@@ -13,36 +30,46 @@
 	<img title="Arduino" alt="Arduino" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 	<img title="Git" alt="Git" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 	<img title="GitHub" alt="GitHub" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-	<img title="GitLab" alt="GitLab" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+	<img title="GitLab" alt="GitLab" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
+	<img title="PostgreSQL" alt="PostgreSQL" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+	<img title="Jest" alt="Jest" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
 </div>
 
-### :technologist: Languages already trained
+### :gear: Frameworks/Libraries trained
 
 <div>
-	<img title="Bash" alt="Bash" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-	<img title="Python" alt="Python" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-	<img title="HTML" alt="HTML" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-	<img title="CSS" alt="CSS" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-	<img title="JavaScript" alt="JavaScript" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 	<img title="React" alt="React" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-	<img title="PHP" alt="PHP" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-	<img title="PostgreSQL" alt="PostgreSQL" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-	<img title="C++" alt="C++" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-	<img title="C" alt="C" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+	<img title="React Router" alt="React Router" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg"/>
+	<img title="ExpressJS" alt="ExpressJS" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
 </div>
 
-### :desktop_computer: Languages still on learn
+</details>
+
+<details open="true">
+	<summary>Learning</summary>
+
+## :arrows_counterclockwise: Learning
 
 <div>
 	<img title="TypeScript" alt="TypeScript" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-	<img title="Express" alt="Express" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-	<img title="Docker" alt="Docker" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 	<img title="Lua" alt="Lua" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 	<img title="Kotlin" alt="Kotlin" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
 	<img title="Java" alt="Java" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
-### :thinking: Languages wanted to learn
+<div>
+	<img title="SQLite" alt="SQLite" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+	<img title="MySQL" alt="MySQL" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+	<img title="NestJS" alt="NestJS" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+	<img title="Docker" alt="Docker" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+</div>
+
+</details>
+
+<details>
+	<summary>Wanted to learn</summary>
+
+## :thinking: Wanted to learn
 
 <div>
 	<img title="Azure" alt="Azure" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
@@ -56,7 +83,6 @@
 #
 
 - :writing_hand: Currently in a full-stack developper course,
-- :fire: I'm working on a React project powered by an api,
 - :cloud: Don't ask me about *Skylanders*... insane fangirl of it,
 - :heavy_dollar_sign: Don't know why but I very enjoy to make shell scripts.
 
