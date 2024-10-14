@@ -31,8 +31,7 @@
 	<img title="Git" alt="Git" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 	<img title="GitHub" alt="GitHub" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 	<img title="GitLab" alt="GitLab" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"/>
-	<img title="PostgreSQL" alt="PostgreSQL" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-	<img title="Jest" alt="Jest" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+	<img title="PostgreSQL" alt="PostgreSQL" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 </div>
 
 ### :gear: Frameworks/Libraries trained
@@ -40,7 +39,8 @@
 <div>
 	<img title="React" alt="React" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 	<img title="React Router" alt="React Router" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg"/>
-	<img title="ExpressJS" alt="ExpressJS" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+	<img title="ExpressJS" alt="ExpressJS" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+	<img title="NestJS" alt="NestJS" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
 </div>
 
 </details>
@@ -60,7 +60,6 @@
 <div>
 	<img title="SQLite" alt="SQLite" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 	<img title="MySQL" alt="MySQL" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-	<img title="NestJS" alt="NestJS" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
 	<img title="Docker" alt="Docker" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </div>
 
@@ -72,11 +71,11 @@
 ## :thinking: Wanted to learn
 
 <div>
-	<img title="Azure" alt="Azure" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-	<img title="Flutter" alt="Flutter" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-	<img title="Go" alt="Go" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-	<img title="Rust" alt="Rust" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
+	<img title="AngularJS" alt="AngularJS" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+	<img title="Rust" alt="Rust" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
 </div>
+	<img title="Flutter" alt="Flutter" align="left" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+	<img title="Go" alt="Go" style="margin-top:50px; margin-right:50px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 
 </details>
 
